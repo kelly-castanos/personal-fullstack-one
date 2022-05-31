@@ -1,0 +1,13 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  background-image:url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fseamless-pattern-cartoon-dogs-pink-background-vector-illustration-image113646341&psig=AOvVaw1OFGMp5ko9HtfjvMVmDTBs&ust=1654048964174000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKj-3drSiPgCFQAAAAAdAAAAABAO");
+  background-size: cover;
+  color: magenta;
+  text-align: center;
+  font-size: xx-large;
+}
+img{
+  height: 200px;
+}
+
